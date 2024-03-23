@@ -1,1 +1,1 @@
-# suggestion-api
+# search-suggestion-api
